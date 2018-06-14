@@ -10,3 +10,6 @@
 [submodule "OpenSSL"]
 	path = OpenSSL
 	url = https://github.com/openssl/openssl
+[submodule "libtorrent"]
+	path = libtorrent
+	url = https://github.com/arvidn/libtorrent/
