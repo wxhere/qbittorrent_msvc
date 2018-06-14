@@ -7,3 +7,6 @@
 [submodule "OpenSSL"]
 	path = OpenSSL
 	url = https://github.com/wxhere/OpenSSL
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost
